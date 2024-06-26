@@ -1,0 +1,90 @@
+Added Component: Designator=C?(CAPC0603X33N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "02013C102JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/02013c102jat2a/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02013C102JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-02013C102JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/02013C102JAT2A?qs=zKeCUPC1TQ0744pweOVFqQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(EEE1AA220WR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eee-fk1h4r7r/panasonic?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FK1H4R7R?qs=qE6bgDGEOCur97rwuEUvdw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603X33N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02013A101GAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-02013A101GAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/02013A101GAT2A?qs=f21FSZc47PgIfVZWxI2rdg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(EEE1AA220WR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eee-fk1h4r7r/panasonic?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FK1H4R7R?qs=qE6bgDGEOCur97rwuEUvdw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603X33N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02013A101GAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-02013A101GAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/02013A101GAT2A?qs=f21FSZc47PgIfVZWxI2rdg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U?(FP-HCP-24-2-IPC_C)
+Add component (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "26.8GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Strip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-17
+Added Pin To Net: NetName=GND Pin=U?-25
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=RFOUT/2 Pin=U?-10
+Added Net: Name=RFOUT/2
+Added Pin To Net: NetName=RFOUT/16 Pin=C?-2
+Added Net: Name=RFOUT/16
+Added Pin To Net: NetName=RFOUT Pin=U?-16
+Added Net: Name=RFOUT
+Added Pin To Net: NetName=VCC(DIG) Pin=C?-1
+Added Pin To Net: NetName=VCC(DIG) Pin=C?-1
+Added Pin To Net: NetName=VCC(DIG) Pin=C?-2
+Added Pin To Net: NetName=VCC(DIG) Pin=C?-2
+Added Pin To Net: NetName=VCC(DIG) Pin=U?-4
+Added Pin To Net: NetName=VCC(DIG) Pin=U?-20
+Added Net: Name=VCC(DIG)
+Added Pin To Net: NetName=VTUNE Pin=U?-22
+Added Net: Name=VTUNE
+Added Class: Name=Radar_10GHz

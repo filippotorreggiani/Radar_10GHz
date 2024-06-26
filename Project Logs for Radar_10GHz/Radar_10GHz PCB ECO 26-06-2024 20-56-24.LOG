@@ -1,0 +1,39 @@
+Added Component: Designator=C?(CAPC0603X33N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02013A101GAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-02013A101GAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/02013A101GAT2A?qs=f21FSZc47PgIfVZWxI2rdg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 10SVPS10M
+Added Component: Designator=C?(EEE1AA220WR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eee-fk1h4r7r/panasonic?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FK1H4R7R?qs=qE6bgDGEOCur97rwuEUvdw%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC3216X75N
+Add Component: Footprint Not Found 3296X1223LF
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC(DIG) Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC(DIG) Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin VR?-1
+Added Pin To Net: NetName=+2 Pin=C?-1
+Added Net: Name=+2
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? EEE-FK1H4R7R
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? 02013A101GAT2A
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? 02013A101GAT2A
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? 02013A101GAT2A
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? EEE-FK1H4R7R
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? 02013C102JAT2A
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? EEE-FK1H4R7R
+Add Class Member: Failed to add class member : Component R? CR1206-FX-7500ELF
+Add Class Member: Failed to add class member : Component VR? 3296X-1-501RLF
