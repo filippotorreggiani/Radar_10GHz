@@ -1,0 +1,1 @@
+Study and creation of a 10GHz radar PCB. The goal is to create a working PCB capable of detecting the distance of an object in its field of view. the project includes the study of mmWaves oscillators, PCB antennas for high frequency and nanosecond counting.
