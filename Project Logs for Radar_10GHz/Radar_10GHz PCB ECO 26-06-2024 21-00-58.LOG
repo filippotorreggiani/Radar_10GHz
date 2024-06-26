@@ -1,0 +1,66 @@
+Added Component: Designator=C?(EEE1AA220WR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eee-fk1h4r7r/panasonic?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-FK1H4R7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FK1H4R7R?qs=qE6bgDGEOCur97rwuEUvdw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC0603X33N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02013A101GAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-02013A101GAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/02013A101GAT2A?qs=f21FSZc47PgIfVZWxI2rdg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(10SVPS10M)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "10SVP4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/10svp4r7m/panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/AAB8000/AAB8000C193.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "10SVP4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-10SVP4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/10SVP4R7M?qs=OE1iw1LrrPGNT%2FyEeV%2FacA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3216X75N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CR1206-FX-7500ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cr1206-fx-7500elf/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.bourns.com/data/global/pdfs/CHPREZTR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR1206-FX-7500ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CR1206FX-7500ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CR1206-FX-7500ELF?qs=x5wsLs3ZZ80RF%252BfrW3ztLA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(3296X1223LF)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/3296.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3296X-1-501RLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-3296X-1-501RLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/3296X-1-501RLF?qs=pxDZlBjcsCiC1uib8I6u%2FA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC(DIG) Pin=C?-1
+Added Pin To Net: NetName=VTUNE Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC(DIG) Pin=C?-2
+Added Pin To Net: NetName=VCC(DIG) Pin=R?-2
+Added Pin To Net: NetName=GND Pin=VR?-1
+Added Pin To Net: NetName=VTUNE Pin=VR?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VR?-3
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? 02013A101GAT2A
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? EEE-FK1H4R7R
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? EEE-FK1H4R7R
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? 02013A101GAT2A
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? 02013A101GAT2A
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? EEE-FK1H4R7R
+Added Member To Class: ClassName=Radar_10GHz Member=Component C? 02013C102JAT2A
+Added Member To Class: ClassName=Radar_10GHz Member=Component R? CR1206-FX-7500ELF
+Added Member To Class: ClassName=Radar_10GHz Member=Component VR? 3296X-1-501RLF
